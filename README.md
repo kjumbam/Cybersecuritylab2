@@ -1,4 +1,4 @@
- # SYN flood attack detection and response using Wireshark
+ ## SYN flood attack detection and response using Wireshark
 
  NOTE: This project is just a lab activity from a Network Security course I took online. The work that I actually did was writing a clear incident report for a security incident in the scenario. In essence, the main goal for the activity was actually for me to write a clear security incident report. Aside from the incident report, the rest of the content below detailing all what I did is fictional and actually gotten from the scenario.
 
